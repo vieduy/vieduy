@@ -1,4 +1,4 @@
-[https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Xin%20Chào!&fontSize=90](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Xin%20Chào!&fontSize=90
+![Banner Chào Mừng](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Xin%20Chào!&fontSize=90)
 # Hi 👋, I'm vieduy
 
 ### AI Engineer on Cloud - on Edge
