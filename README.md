@@ -21,3 +21,25 @@
 | General | Language |
 | --- | --- |
 | ![Stats](https://github-readme-stats.vercel.app/api?username=vieduy&show_icons=true&theme=tokyonight) | ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=vieduy&layout=compact&theme=tokyonight) |
+
+### 📈 Advanced Engineering Metrics
+
+<!-- Smooth Line Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vieduy&theme=tokyonight&bg_color=1a1b26&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+<!-- Twin Column: Productivity Quote & Extra Stats -->
+<p align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-quotes.vercel.app/api?theme=tokyonight" width="400" alt="Quote" />
+      </td>
+      <td>
+        <!-- Optional: Replace with WakaTime or automated stats later -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieduy&layout=compact&theme=tokyonight" width="400" alt="Languages" />
+      </td>
+    </tr>
+  </table>
+</p>
