@@ -21,3 +21,21 @@
 | General | Language |
 | --- | --- |
 | ![Stats](https://github-readme-stats.vercel.app/api?username=vieduy&show_icons=true&theme=tokyonight) | ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=vieduy&layout=compact&theme=tokyonight) |
+
+<p align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="190" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="190" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="140" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</p>
