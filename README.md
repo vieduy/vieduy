@@ -1,4 +1,4 @@
-![Banner Chào Mừng](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi 👋, I'm vieduy!&fontSize=90)
+![Banner Chào Mừng](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi,I'm vieduy!&fontSize=90)
 
 ### AI Engineer on Cloud - on Edge
 
