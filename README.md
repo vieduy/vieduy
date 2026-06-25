@@ -1,6 +1,6 @@
 # Hi 👋, I'm vieduy
 
-### AI Engineer on Cloud - on Edge
+### AI Research Engineer
 
 - 🔭 I'm currently working on **AI on Edge, AI Agent, Computer Vision, Scalable AI System**
 
