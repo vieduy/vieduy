@@ -34,7 +34,7 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-quotes.vercel.app/api?theme=tokyonight" width="400" alt="Quote" />
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&fontColor=7aa5ff&height=60&text=AI%20on%20the%20Edge.%20Optimized%20to%20the%20Core.%20Built%20for%20Speed.&fontSize=22" alt="Slogan" />
       </td>
       <td>
         <!-- Optional: Replace with WakaTime or automated stats later -->
